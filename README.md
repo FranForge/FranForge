@@ -1,20 +1,5 @@
 # Hello everyone! 👋
 
-<!--
-**FranForge/FranForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 `Console.Writeline("Hello world!");`
 
 ## Who am I?
@@ -29,7 +14,7 @@ My name is **Francisco Jesús Huerta Hervás (alias FranForge)**, and I’m a de
 You can see additional personal projects [here](https://www.franforge.es/en/projects/all.html).
 
 ## Technical Skills
-- Unity
+- Unity ![Unity Icon](media/icons/unity.svg)
 - Unreal
 - C#
 - C++
