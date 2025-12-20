@@ -4,14 +4,25 @@
 
 ## Who am I?
 My name is **Francisco Jesús Huerta Hervás (alias FranForge)**, and I’m a developer passionate about videogames. I’ve been working with Unity since 2022, and I have published games on Google Play, Steam, and Nintendo Switch. The Switch release was a big challenge, but I’m very proud of having successfully completed the port.
+<br><br>
+<img src="media/owner/FranForge_Logo_Persona.png" width="200">
+<img src="media/icons/logo.svg" width="200">
 
 ## Professional Projects
 - The Sky Project - Enthariel Games (Not released) | Unity
-- Animal Strikers - Enthariel Games ([Switch](https://ec.nintendo.com/NZ/en/titles/70010000092953)) | Unity
-- Luminaria: Dark Echoes - Enthariel Games ([Steam](https://store.steampowered.com/app/2690580/Luminaria_Dark_Echoes/), [Switch](https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Luminaria-Dark-Echoes-2837089.html), [PS5](https://store.playstation.com/es-es/concept/10013956)) | Unity
-- Confinio: Reality Prison - Enthariel Games ([Steam](https://store.steampowered.com/app/3030830/Confinio_Reality_Prison/?l=spanish)) | Unity
+<img src="media/projects/the-sky-project.webp" width="60%">
 
-You can see additional personal projects [here](https://www.franforge.es/en/projects/all.html).
+- Animal Strikers - Enthariel Games ([Switch](https://ec.nintendo.com/NZ/en/titles/70010000092953)) | Unity
+<img src="media/projects/animal-strikers.webp" width="60%">
+
+- Luminaria: Dark Echoes - Enthariel Games ([Steam](https://store.steampowered.com/app/2690580/Luminaria_Dark_Echoes/), [Switch](https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Luminaria-Dark-Echoes-2837089.html), [PS5](https://store.playstation.com/es-es/concept/10013956)) | Unity
+<img src="media/projects/luminaria-dark-echoes.webp" width="60%">
+
+- Confinio: Reality Prison - Enthariel Games ([Steam](https://store.steampowered.com/app/3030830/Confinio_Reality_Prison/?l=spanish)) | Unity
+<img src="media/projects/confinio.webp" width="60%">
+
+You can see additional personal projects like bellow [here](https://www.franforge.es/en/projects/all.html).
+<img src="media/projects/magictory.webp" width="60%">
 
 ## Technical Skills
 - Unity <img src="media/icons/unity-white.svg" width="20">
