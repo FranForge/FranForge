@@ -9,16 +9,16 @@ My name is **Francisco Jesús Huerta Hervás (alias FranForge)**, and I’m a de
 <img src="media/icons/logo.svg" width="200">
 
 ## Professional Projects
-- The Sky Project - Enthariel Games (Not released) | Unity
+- The Sky Project - Enthariel Games (Not released) | Unity <img src="media/icons/unity-white.svg" width="20">
 <img src="media/projects/the-sky-project.webp" width="60%">
 
-- Animal Strikers - Enthariel Games ([Switch](https://ec.nintendo.com/NZ/en/titles/70010000092953)) | Unity
+- Animal Strikers - Enthariel Games ([Switch](https://ec.nintendo.com/NZ/en/titles/70010000092953)) <img src="media/icons/switch-white.svg" width="20"> | Unity <img src="media/icons/unity-white.svg" width="20">
 <img src="media/projects/animal-strikers.webp" width="60%">
 
-- Luminaria: Dark Echoes - Enthariel Games ([Steam](https://store.steampowered.com/app/2690580/Luminaria_Dark_Echoes/), [Switch](https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Luminaria-Dark-Echoes-2837089.html), [PS5](https://store.playstation.com/es-es/concept/10013956)) | Unity
+- Luminaria: Dark Echoes - Enthariel Games ([Steam](https://store.steampowered.com/app/2690580/Luminaria_Dark_Echoes/), [Switch](https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Luminaria-Dark-Echoes-2837089.html), [PS5](https://store.playstation.com/es-es/concept/10013956)) <img src="media/icons/steam-white.svg" width="20"> <img src="media/icons/switch-white.svg" width="20"> <img src="media/icons/ps-white.svg" width="20"> | Unity <img src="media/icons/unity-white.svg" width="20">
 <img src="media/projects/luminaria-dark-echoes.webp" width="60%">
 
-- Confinio: Reality Prison - Enthariel Games ([Steam](https://store.steampowered.com/app/3030830/Confinio_Reality_Prison/?l=spanish)) | Unity
+- Confinio: Reality Prison - Enthariel Games ([Steam](https://store.steampowered.com/app/3030830/Confinio_Reality_Prison/?l=spanish)) <img src="media/icons/steam-white.svg" width="20"> | Unity <img src="media/icons/unity-white.svg" width="20">
 <img src="media/projects/confinio.webp" width="60%">
 
 You can see additional personal projects like bellow [here](https://www.franforge.es/en/projects/all.html).
