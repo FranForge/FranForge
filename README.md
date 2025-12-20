@@ -14,19 +14,19 @@ My name is **Francisco Jesús Huerta Hervás (alias FranForge)**, and I’m a de
 You can see additional personal projects [here](https://www.franforge.es/en/projects/all.html).
 
 ## Technical Skills
-- Unity ![Unity Icon](media/icons/unity.svg)
-- Unreal
-- C#
-- C++
-- HTML
-- CSS
-- JS
-- Plastic SCM
-- Github
-- Blender
-- Adobe Premiere
-- Adobe After Effects
-- Adobe Photoshop
+- Unity <img src="media/icons/unity-white.svg" width="20">
+- Unreal <img src="media/icons/unreal-white.svg" width="20">
+- C# <img src="media/icons/csharp.svg" width="20">
+- C++ <img src="media/icons/cplusplus.svg" width="20">
+- HTML <img src="media/icons/html.svg" width="20">
+- CSS <img src="media/icons/css.svg" width="20">
+- JS <img src="media/icons/js.svg" width="20">
+- Plastic SCM <img src="media/icons/plastic.svg" width="20">
+- Github <img src="media/icons/github-white.svg" width="20">
+- Blender <img src="media/icons/blender.svg" width="20">
+- Adobe Premiere <img src="media/icons/premiere.svg" width="20">
+- Adobe After Effects <img src="media/icons/after-effects.svg" width="20">
+- Adobe Photoshop <img src="media/icons/photoshop.svg" width="20">
 
 ## What am I doing now?
 I’m currently expanding my skills in Unity and Unreal with personal projects, and even web development through my personal website, franforge.es. The repository is available on GitHub, so it can also be viewed directly from the code lol.
