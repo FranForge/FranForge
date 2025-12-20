@@ -2,6 +2,35 @@
 
 `Console.Writeline("Hello world!");`
 
+## Social
+<a href="https://x.com/FranForge" target="_blank" aria-label="Visit FranForge X Profile">
+    <img src="media/icons/twitter-white.svg" alt="Twitter" width="30">
+</a>
+
+<a href="https://www.instagram.com/franforge.dev/" target="_blank" aria-label="Visit FranForge Instagram Profile">
+    <img src="media/icons/instagram-white.svg" alt="Instagram" width="30">
+</a>
+
+<a href="https://www.tiktok.com/@franforgedev" target="_blank" aria-label="Visit FranForge Tiktok Profile">
+    <img src="media/icons/tiktok-white.svg" alt="Tiktok" width="30">
+</a>
+
+<a href="https://www.youtube.com/@FranForge/videos" target="_blank" aria-label="Visit FranForge Youtube Profile">
+    <img src="media/icons/youtube-white.svg" alt="Youtube" width="30">
+</a>
+
+<a href="https://www.patreon.com/c/FranForge" target="_blank" aria-label="Visit FranForge Patreon Profile">
+    <img src="media/icons/patreon-white.svg" alt="Patreon" aria-label="Visit FranForge Patreon Creator Profile" width="30">
+</a>
+
+<a href="https://www.linkedin.com/in/francisco-jesus-huerta-hervas/" target="_blank" aria-label="Visit FranForge Linkedin Profile">
+    <img src="media/icons/linkedin-white.svg" alt="Linkedin" width="30">
+</a>
+
+<a href="mailto:franforge3d@gmail.com" target="_blank" aria-label="Mail to franforge3d@gmail.com">
+    <img src="media/icons/mail-white.svg" alt="Mail" width="30">
+</a>
+
 ## Who am I?
 My name is **Francisco Jesús Huerta Hervás (alias FranForge)**, and I’m a developer passionate about videogames. I’ve been working with Unity since 2022, and I have published games on Google Play, Steam, and Nintendo Switch. The Switch release was a big challenge, but I’m very proud of having successfully completed the port.
 <br><br>
