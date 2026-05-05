@@ -1,3 +1,5 @@
+> ⚠️ This README is a simplified version. For the best experience, please visit my website: [franforge.es](https://franforge.es)
+
 # Hello everyone! 👋
 
 `Console.Writeline("Hello world!");`
